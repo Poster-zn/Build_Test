@@ -1,0 +1,9 @@
+D:\Build school_Test\Winter_HW\Farmer_01\Farmer\obj\Debug\Farmer.csprojAssemblyReference.cache
+D:\Build school_Test\Winter_HW\Farmer_01\Farmer\obj\Debug\Farmer.Form1.resources
+D:\Build school_Test\Winter_HW\Farmer_01\Farmer\obj\Debug\Farmer.Properties.Resources.resources
+D:\Build school_Test\Winter_HW\Farmer_01\Farmer\obj\Debug\Farmer.csproj.GenerateResource.cache
+D:\Build school_Test\Winter_HW\Farmer_01\Farmer\bin\Debug\Farmer.exe.config
+D:\Build school_Test\Winter_HW\Farmer_01\Farmer\bin\Debug\Farmer.exe
+D:\Build school_Test\Winter_HW\Farmer_01\Farmer\bin\Debug\Farmer.pdb
+D:\Build school_Test\Winter_HW\Farmer_01\Farmer\obj\Debug\Farmer.exe
+D:\Build school_Test\Winter_HW\Farmer_01\Farmer\obj\Debug\Farmer.pdb

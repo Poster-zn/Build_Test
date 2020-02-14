@@ -1,0 +1,6 @@
+D:\Build school_Test\Winter_HW\HW_01\bin\Debug\HW_01.exe.config
+D:\Build school_Test\Winter_HW\HW_01\bin\Debug\HW_01.exe
+D:\Build school_Test\Winter_HW\HW_01\bin\Debug\HW_01.pdb
+D:\Build school_Test\Winter_HW\HW_01\obj\Debug\HW_01.csprojAssemblyReference.cache
+D:\Build school_Test\Winter_HW\HW_01\obj\Debug\HW_01.exe
+D:\Build school_Test\Winter_HW\HW_01\obj\Debug\HW_01.pdb
